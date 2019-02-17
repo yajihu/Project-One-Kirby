@@ -1,11 +1,8 @@
-Student name: Yaji Hu
-Student number: 101012215
+
 
 Welcome to "Project One: Kriby"
 
 Background story and control are inside "Game Tutorial" folder.
-
-I spend weeks on it, please enjoy the game.
 
 
 Assets reference: 
